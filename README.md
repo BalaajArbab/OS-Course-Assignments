@@ -18,5 +18,5 @@ Asn 5: Mutual Exclusion/Threads
 
 ---
 
-![Grades](images/gradebook.png)
-![Exam](images/exam.png)
+![Grades](images/gradepage.png)
+
